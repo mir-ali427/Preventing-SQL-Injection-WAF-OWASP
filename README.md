@@ -35,14 +35,14 @@ database/         → MySQL SQL file
 screenshots/      → WAF logs and blocked attack proof
 README.md
 ## Project Screenshots
-## Project Screenshots
 
-waf pic 5.jpeg
-waf pic 6.jpeg
-waf prject pic 1.jpeg
-waf project pic 2.jpeg
-waf project pic 3.jpeg
-waf project pic 4.jpeg
+![Project Screenshot 1](screenshots/waf%20prject%20pic%201.jpeg)
+![Project Screenshot 2](screenshots/waf%20project%20pic%202.jpeg)
+![Project Screenshot 3](screenshots/waf%20project%20pic%203.jpeg)
+![Project Screenshot 4](screenshots/waf%20project%20pic%204.jpeg)
+![Project Screenshot 5](screenshots/waf%20pic%205.jpeg)
+![Project Screenshot 6](screenshots/waf%20pic%206.jpeg)
+
 
 
 
