@@ -37,12 +37,12 @@ README.md
 ## Project Screenshots
 ## Project Screenshots
 
-![Project Screenshot 1](screenshots/waf-project-1.jpeg)
-![Project Screenshot 2](screenshots/waf-project-2.jpeg)
-![Project Screenshot 3](screenshots/waf-project-3.jpeg)
-![Project Screenshot 4](screenshots/waf-project-4.jpeg)
-![Project Screenshot 5](screenshots/waf-pic-5.jpeg)
-![Project Screenshot 6](screenshots/waf-pic-6.jpeg)
+waf pic 5.jpeg
+waf pic 6.jpeg
+waf prject pic 1.jpeg
+waf project pic 2.jpeg
+waf project pic 3.jpeg
+waf project pic 4.jpeg
 
 
 
