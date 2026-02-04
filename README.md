@@ -36,12 +36,7 @@ screenshots/      → WAF logs and blocked attack proof
 README.md
 ## Project Screenshots
 
-![Project Screenshot 1](screenshots/waf-project-pic-1.jpeg)
-![Project Screenshot 2](screenshots/waf-project-pic-2.jpeg)
-![Project Screenshot 3](screenshots/waf-project-pic-3.jpeg)
-![Project Screenshot 4](screenshots/waf-project-pic-4.jpeg)
-![Project Screenshot 5](screenshots/waf-pic-5.jpeg)
-![Project Screenshot 6](screenshots/waf-pic-6.jpeg)
+
 
 ## Conclusion
 This project demonstrates how Web Application Firewalls can protect vulnerable applications from SQL Injection attacks and highlights the importance of defense-in-depth in web security.
