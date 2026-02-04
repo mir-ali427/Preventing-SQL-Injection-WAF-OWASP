@@ -13,7 +13,7 @@ A hands-on cybersecurity project demonstrating SQL Injection attacks on a vulner
 - PHP
 - MySQL
 - ModSecurity WAF
-- OWASP Core Rule Set (CRS)
+- OWASP Core  Rule Set (CRS)
 
   ## SQL Injection Attack (Before WAF)
 The login application directly inserts user input into SQL queries without validation.
